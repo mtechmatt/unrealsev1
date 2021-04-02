@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.building_escape-15228867.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/matty/Desktop/BuildingEscape-855438ce8e9fb0c05867adff319d74dff8dee4aa/BuildingEscape/Building_Escape 4.26/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Building_Escape-15228867 [UE Editor]"
+				}
+			}
+		}
+	]
+}
